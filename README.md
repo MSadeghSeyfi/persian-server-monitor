@@ -4,10 +4,11 @@
 
 ابزار **رایگان** و **متن‌باز** برای مانیتورینگ و هشدار امنیتی سرور لینوکس از طریق **بله** یا **تلگرام** — به زبان فارسی
 
-![نسخه](https://img.shields.io/badge/نسخه-1.1.0-blue)
-![مجوز](https://img.shields.io/badge/مجوز-MIT-green)
-![زبان](https://img.shields.io/badge/زبان-فارسی-red)
-![پشتیبانی](https://img.shields.io/badge/پشتیبانی-بله%20%7C%20تلگرام-blueviolet)
+![Version](https://img.shields.io/badge/version-1.1.0-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Language](https://img.shields.io/badge/lang-Persian-red)
+![Platform](https://img.shields.io/badge/platform-Linux-orange)
+![Support](https://img.shields.io/badge/alerts-Bale%20%7C%20Telegram-blueviolet)
 
 ---
 
