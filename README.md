@@ -14,10 +14,13 @@
 
 ## 📱 نمونه پیام‌ها
 
-<!-- تصویر ۱: اسکرین‌شات پیام‌های دریافتی در بله را اینجا بگذارید -->
-<!-- پیشنهاد: تصویری که چند پیام مختلف (تست، SSH، Fail2ban) را نشان دهد -->
-
-![نمونه پیام‌های دریافتی](screenshots/messages.png)
+<table>
+  <tr>
+    <td><img src="screenshots/message1.jpg" width="260"></td>
+    <td><img src="screenshots/message2.jpg" width="260"></td>
+    <td><img src="screenshots/message3.jpg" width="260"></td>
+  </tr>
+</table>
 
 ---
 
